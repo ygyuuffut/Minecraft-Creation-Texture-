@@ -1,2 +1,18 @@
-# Minecraft-Creation-Texture-
-The Dev that got a little/none deal with coding beside .mcmeta. The Project: PIXEL MADNESS will be here for download :D
+# Minecraft-Creation-Texture- Pixel Madness 32x (7% completed)
+0.03DEV update (Pre-Natural Update) *Not completed till 1.00*
+[+]Now every crops got their own growing texture
+[+]Added most of the dirt texture (sorry mushroom biome)
+[+]Pack Icon swiched
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+0.02DEV update (untitled)
+[+] added concrete texture
+[+] added concrete powder texture
+[+] added melon texture
+[+] added carrot/beetroot texture
+[+] added web texture
+[+] Cocoa bean block texture
+[+] breaking animation
+[+] dragon egg/sponge(include wet)/slime texture
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+0.01DEV update (Creation)
+Oops, guess i just started something that i can't complete XD
